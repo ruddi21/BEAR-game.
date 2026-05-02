@@ -1,5 +1,7 @@
 # BEAR-game.
 
+Link to game: https://ruddi21.github.io/BEAR-game./
+
 Inspired by the legendary game made by Google Snake, it uses the same style of gameplay using the arrow keys and buttons, but with a Bear trying to grow by chasing honey! Don't go into yourself, as you do grow with each honey collected, or hit the walls, or else you lose! Try and get as many honey blocks to reach a new high score or win!
 
 Move the snake around to grow, use the arrow keys or buttons, and just have fun! 
